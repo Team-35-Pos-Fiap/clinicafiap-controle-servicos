@@ -12,7 +12,7 @@
 	<artifactId>clinicafiap</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>clinicafiap-controle-servicos</name>
-	<description>Micro serviço para gerenciar os serviços expostos da Clínica Fiap.</description>
+	<description>Tech Challenge - Serviço para controle dos serviços.</description>
 	<properties>
 		<java.version>21</java.version>
 		<spring-cloud.version>2024.0.1</spring-cloud.version>
